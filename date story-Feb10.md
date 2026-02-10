@@ -1,4 +1,6 @@
 **Dilley Family Detention Center Triples in Size Amid Growing Controversy Over Conditions**
+
+
 I read Austin Koecher's substack every day. 
 Yesterday, he published one on how ICE's Dilley family detention center in South Texas tripled in size amid controversy over conditions. 
 He pulled the data from DetentionReports.com and found the population in the detention "surged from fewer than 500 people in October to 1,332 as of late January.
