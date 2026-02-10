@@ -1,4 +1,6 @@
 **Mapping obstretic mistreatment complaints in Maryland hospitals.** 
+
+
 For many women across the world, childbirth involves unnecessary interventions or mistreatment. This project asks: Are there certain hospitals in Maryland associated with higher rates of complaints or interventions like unnecessary C-sections?
 The project would combine multiple datasets. State medical board complaints from the Maryland Board of Physicians will help identify hospitals linked to patient-reported mistreatment. If a complaint results in public action, it is posted to the licensee's public information page on the Board's website. 
 Hospital quality metrics from CMS's Hospital Compare will allow me to find C-section rates, labor interventions and maternal complication data. I can also find demographic data from the U.S. Census and American Community Survey to capture income, race and population distribution in each hospital's service area.
