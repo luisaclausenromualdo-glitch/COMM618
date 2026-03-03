@@ -16,3 +16,5 @@ These insights suggest that interventions should focus not only on individual be
 
 <img width="913" height="397" alt="A Widespread Problem_ Patterns of Obstetric Violence in Ghana Among 1,854 Women" src="https://github.com/user-attachments/assets/64530ef4-afbc-4eaa-95f1-9345ee32128c" />
 https://docs.google.com/spreadsheets/d/1evlxKVPsqZSAajHUVlK5C7ozXTLdpCJrGSYv3hUDMS8/edit?usp=sharing
+
+https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.988961/full 
