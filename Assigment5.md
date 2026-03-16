@@ -1,0 +1,96 @@
+DONE
+Final SQL query: 
+select
+  m15.city,
+  m15.state,
+  m15."2014_murders",
+  m16."2015_murders",
+  m16."2016_murders"
+FROM murder_2015_final AS m15
+JOIN murder_2016_prelim AS m16
+ON m15.city = m16.city
+AND m15.state = m16.state
+ORDER BY m16."2016_murders" DESC
+
+city,state,2014_murders,2015_murders,2016_murders
+Chicago,Illinois,411,378,536
+New York,New York,333,266,252
+Baltimore,Maryland,211,249,230
+Detroit,Michigan,298,216,221
+Philadelphia,Pennsylvania,248,209,213
+Houston,Texas,242,191,212
+Los Angeles,California,260,209,205
+Memphis,Tennessee,140,114,158
+St. Louis,Missouri,159,136,133
+New Orleans,Louisiana,150,130,127
+Las Vegas,Nevada,122,90,125
+Dallas,Texas,116,95,118
+Indianapolis,Indiana,136,102,117
+Phoenix,Arizona,114,72,111
+San Antonio,Texas,103,78,111
+Washington,D.C.,105,119,105
+Kansas City,Missouri,78,77,90
+Cleveland,Ohio,63,96,89
+Atlanta,Georgia,93,68,85
+Milwaukee,Wisconsin,90,105,84
+Louisville,Kentucky,56,52,79
+Jacksonville,Florida,96,67,78
+Orlando,Florida,15,19,73
+Newark,New Jersey,93,76,72
+Columbus,Ohio,83,71,70
+Tulsa,Oklahoma,46,43,52
+Oakland,California,80,65,52
+Cincinnati,Ohio,60,50,50
+Nashville,Tennessee,41,47,49
+Fort Worth,Texas,54,61,49
+Albuquerque,New Mexico,30,35,46
+Pittsburgh,Pennsylvania,69,46,46
+Miami,Florida,81,62,45
+Stockton,California,49,30,38
+Buffalo,New York,60,31,38
+San Jose,California,32,22,35
+Fort Wayne,Indiana,12,17,34
+Denver,Colorado,31,32,33
+San Francisco,California,45,35,32
+Oklahoma City,Oklahoma,45,28,30
+Durham,North Carolina,21,25,30
+San Diego,California,32,23,30
+Long Beach,California,23,25,29
+Austin,Texas,32,13,28
+Boston,Massachusetts,53,28,28
+Minneapolis,Minnesota,31,34,26
+Anchorage,Alaska,12,19,26
+Charlotte-Mecklenburg,North Carolina,47,27,25
+Bakersfield,California,17,21,22
+Sacramento,California,28,31,21
+Omaha,Nebraska,32,34,20
+Greensboro,North Carolina,23,15,20
+Santa Ana,California,18,10,20
+Fresno,California,47,30,19
+Tucson,Arizona,35,23,18
+Arlington,Texas,13,4,17
+Aurora,Colorado,11,13,16
+Lexington,Kentucky,20,13,16
+Colorado Springs,Colorado,20,12,15
+Portland,Oregon,26,19,14
+Jersey City,New Jersey,24,11,14
+Seattle,Washington,26,17,14
+El Paso,Texas,21,12,14
+St. Petersburg,Florida,19,9,14
+Virginia Beach,Virginia,17,17,13
+Mobile,Alabama,31,6,12
+Wichita,Kansas,26,13,10
+Honolulu,Hawaii,21,12,9
+Laredo,Texas,14,7,9
+Lincoln,Nebraska,7,0,9
+Corpus Christi,Texas,27,10,9
+Toledo,Ohio,24,5,8
+Raleigh,North Carolina,16,8,7
+Riverside,California,12,6,7
+Plano,Texas,4,2,5
+Anaheim,California,14,10,4
+Henderson,Nevada,3,1,3
+Chandler,Arizona,1,2,3
+Chula Vista,California,7,5,1
+
+I chose to take 2015 from the 2016 table because it is more updated and the dataset created later when copiling 2016 preliminary data. 
