@@ -1,0 +1,8 @@
+**Recycling lead for U.S. car batteries is poisoning people**
+
+This investigation by The Examination and The New York Times found that battery recycling plants in Ogijo, Nigeria are causing severe lead poisoning in surrounding communities. Of 70 people tested, seven out of ten had harmful levels of lead in their blood, and soil samples registered up to 186 times safe levels. The investigation traced that lead through the supply chain to battery manufacturers supplying Ford, General Motors, Tesla, Amazon, Lowe's and Walmart. The investigation points out the auto industry had portrayed battery recycling as a green, sustainable process but as U.S. regulations tightened to protect Americans from lead poisoning, companies began sourcing lead from looser regulatory environments abroad.
+This is an incredibly strong investigative piece that instead of relying on existing records, they relied on hiring researchers to conduct blood and soil testing in Ogijo. The firsthand data is incredible and drives the entire narrative. Instead of charts, the piece used photos of Ogijo residents who had been tested for lead on their blood and wrote in each one what the levels showed. The reporters also tracked shipments of lead from Nigeria to the U.S., examined transportation records and confirmed connections between Nigerian factories, trading company Trafigura, and battery manufacturer East Penn, which all the paper trail turned an environmental investigation into a corporate accountability investigation as well. 
+Overall, an impressive article that combined investigative and data skills. 
+
+
+https://www.theexamination.org/articles/battery-recycling-nigeria-lead-poisoning-us-automakers
